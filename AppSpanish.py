@@ -16,9 +16,10 @@ class AplicacionAfasia(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Aplicación de Comunicación para Afasia")
-        self.state('zoomed')  # Maximiza la ventana con los botones visibles
-        # self.bind("<Escape>", lambda e: self.attributes("-fullscreen", False))
-        self.resizable(False, False)
+        screen_width = self.winfo_screenwidth()
+        screen_height = self.winfo_screenheight()
+        self.geometry(f"{screen_width}x{screen_height}")
+        self.resizable(True, True)
 
         self.datos_compartidos = {
             "frase": tk.StringVar(),
@@ -203,7 +204,7 @@ class PaginaCategoria(tk.Frame):
 
         self.categorias = list(self.controller.diccionario_palabras.keys())
 
-        columnas = 3
+        columnas = max(1, self.winfo_width() // 300)  # ~300px por columna
         for idx, categoria in enumerate(self.categorias):
             ruta_imagen = None
             lista_palabras = self.controller.diccionario_palabras.get(categoria)
