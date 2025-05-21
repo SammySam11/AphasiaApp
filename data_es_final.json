@@ -1,0 +1,374 @@
+{
+    "Comida": [
+        {
+            "image": "images/comer.png",
+            "palabra": "Comer"
+        },
+        {
+            "image": "images/beber.png",
+            "palabra": "Beber"
+        },
+        {
+            "image": "images/cocinar.png",
+            "palabra": "Cocinar"
+        },
+        {
+            "image": "images/snack.png",
+            "palabra": "Merienda"
+        },
+        {
+            "image": "images/desayuno.png",
+            "palabra": "Desayuno"
+        },
+        {
+            "image": "images/almuerzo.png",
+            "palabra": "Almuerzo"
+        },
+        {
+            "image": "images/cena.png",
+            "palabra": "Cena"
+        },
+        {
+            "image": "images/postre.png",
+            "palabra": "Postre"
+        },
+        {
+            "image": "images\\BAKE.png",
+            "palabra": "Hornear"
+        }
+    ],
+    "Caminar": [
+        {
+            "image": "images/ir.png",
+            "palabra": "Ir"
+        },
+        {
+            "image": "images/correr.png",
+            "palabra": "Correr"
+        },
+        {
+            "image": "images/pasear.png",
+            "palabra": "Pasear"
+        },
+        {
+            "image": "images/trotar.png",
+            "palabra": "Trotar"
+        },
+        {
+            "image": "images/caminar.png",
+            "palabra": "Caminar"
+        },
+        {
+            "image": "images/bicicleta.png",
+            "palabra": "Andar en bici"
+        }
+    ],
+    "Emociones": [
+        {
+            "image": "images/feliz.png",
+            "palabra": "Feliz"
+        },
+        {
+            "image": "images/triste.png",
+            "palabra": "Triste"
+        },
+        {
+            "image": "images/enojado.png",
+            "palabra": "Enojado"
+        },
+        {
+            "image": "images/emocionado.png",
+            "palabra": "Emocionado"
+        },
+        {
+            "image": "images/ansioso.png",
+            "palabra": "Ansioso"
+        },
+        {
+            "image": "images/calma.png",
+            "palabra": "Calma"
+        },
+        {
+            "image": "images/nervioso.png",
+            "palabra": "Nervioso"
+        },
+        {
+            "image": "images/cansado.png",
+            "palabra": "Cansado"
+        }
+    ],
+    "Objetos": [
+        {
+            "image": "images/agua.png",
+            "palabra": "Agua"
+        },
+        {
+            "image": "images/libro.png",
+            "palabra": "Libro"
+        },
+        {
+            "image": "images/telefono.png",
+            "palabra": "Teléfono"
+        },
+        {
+            "image": "images/laptop.png",
+            "palabra": "Portátil"
+        },
+        {
+            "image": "images/mesa.png",
+            "palabra": "Mesa"
+        },
+        {
+            "image": "images/silla.png",
+            "palabra": "Silla"
+        },
+        {
+            "image": "images/vaso.png",
+            "palabra": "Vaso"
+        },
+        {
+            "image": "images/pluma.png",
+            "palabra": "Lápiz"
+        },
+        {
+            "image": "images/cuaderno.png",
+            "palabra": "Cuaderno"
+        }
+    ],
+    "Animales": [
+        {
+            "image": "images/dog.png",
+            "palabra": "Perro"
+        },
+        {
+            "image": "images/Agente pe xdxdxd.jpg",
+            "palabra": "Ornitorrinco"
+        },
+        {
+            "image": "images/gato.png",
+            "palabra": "Gato"
+        },
+        {
+            "image": "images/pajaro.png",
+            "palabra": "Pájaro"
+        },
+        {
+            "image": "images/pez.png",
+            "palabra": "Pez"
+        },
+        {
+            "image": "images/conejo.png",
+            "palabra": "Conejo"
+        },
+        {
+            "image": "images/caballo.png",
+            "palabra": "Caballo"
+        },
+        {
+            "image": "images/vaca.png",
+            "palabra": "Vaca"
+        }
+    ],
+    "Rutinas_Diarias": [
+        {
+            "image": "images/despertar.png",
+            "palabra": "Despertar"
+        },
+        {
+            "image": "images/duchar.png",
+            "palabra": "Ducharse"
+        },
+        {
+            "image": "images/vestir.png",
+            "palabra": "Vestirse"
+        },
+        {
+            "image": "images/dientes.png",
+            "palabra": "Cepillar Dientes"
+        },
+        {
+            "image": "images/desayuno.png",
+            "palabra": "Desayunar"
+        },
+        {
+            "image": "images/trabajar.png",
+            "palabra": "Trabajar"
+        },
+        {
+            "image": "images/descanso.png",
+            "palabra": "Descansar"
+        }
+    ],
+    "Actividades": [
+        {
+            "image": "images/leer.png",
+            "palabra": "Leer"
+        },
+        {
+            "image": "images/jugar.png",
+            "palabra": "Jugar"
+        },
+        {
+            "image": "images/cantar.png",
+            "palabra": "Cantar"
+        },
+        {
+            "image": "images/bailar.png",
+            "palabra": "Bailar"
+        },
+        {
+            "image": "images/dibujar.png",
+            "palabra": "Dibujar"
+        },
+        {
+            "image": "images/pintar.png",
+            "palabra": "Pintar"
+        },
+        {
+            "image": "images/tv.png",
+            "palabra": "Ver TV"
+        },
+        {
+            "image": "images/ejercicio.png",
+            "palabra": "Ejercitarse"
+        }
+    ],
+    "Ayuda": [
+        {
+            "image": "images/ayuda.png",
+            "palabra": "Ayuda"
+        },
+        {
+            "image": "images/asistencia.png",
+            "palabra": "Asistir"
+        },
+        {
+            "image": "images/soporte.png",
+            "palabra": "Soporte"
+        },
+        {
+            "image": "images/rescate.png",
+            "palabra": "Rescatar"
+        },
+        {
+            "image": "images/salvar.png",
+            "palabra": "Salvar"
+        }
+    ],
+    "Familia": [
+        {
+            "image": "images/madre.png",
+            "palabra": "Madre"
+        },
+        {
+            "image": "images/padre.png",
+            "palabra": "Padre"
+        },
+        {
+            "image": "images/hermano.png",
+            "palabra": "Hermano"
+        },
+        {
+            "image": "images/hermana.png",
+            "palabra": "Hermana"
+        },
+        {
+            "image": "images/abuela.png",
+            "palabra": "Abuela"
+        },
+        {
+            "image": "images/abuelo.png",
+            "palabra": "Abuelo"
+        },
+        {
+            "image": "images/primo.png",
+            "palabra": "Primo"
+        },
+        {
+            "image": "images/tio.png",
+            "palabra": "Tío"
+        }
+    ],
+    "Clima": [
+        {
+            "image": "images/soleado.png",
+            "palabra": "Soleado"
+        },
+        {
+            "image": "images/lluvioso.png",
+            "palabra": "Lluvioso"
+        },
+        {
+            "image": "images/nublado.png",
+            "palabra": "Nublado"
+        },
+        {
+            "image": "images/ventoso.png",
+            "palabra": "Ventoso"
+        },
+        {
+            "image": "images/nieve.png",
+            "palabra": "Nevado"
+        },
+        {
+            "image": "images/tormenta.png",
+            "palabra": "Tormentoso"
+        }
+    ],
+    "Trabajo": [
+        {
+            "image": "images/reunion.png",
+            "palabra": "Reunión"
+        },
+        {
+            "image": "images/proyecto.png",
+            "palabra": "Proyecto"
+        },
+        {
+            "image": "images/correo.png",
+            "palabra": "Correo"
+        },
+        {
+            "image": "images/plazo.png",
+            "palabra": "Fecha Límite"
+        },
+        {
+            "image": "images/reporte.png",
+            "palabra": "Informe"
+        },
+        {
+            "image": "images/presentacion.png",
+            "palabra": "Presentación"
+        },
+        {
+            "image": "images/cliente.png",
+            "palabra": "Cliente"
+        }
+    ],
+    "Ocio": [
+        {
+            "image": "images/vacaciones.png",
+            "palabra": "Vacaciones"
+        },
+        {
+            "image": "images/viaje.png",
+            "palabra": "Viaje"
+        },
+        {
+            "image": "images/playa.png",
+            "palabra": "Playa"
+        },
+        {
+            "image": "images/pelicula.png",
+            "palabra": "Película"
+        },
+        {
+            "image": "images/picnic.png",
+            "palabra": "Picnic"
+        },
+        {
+            "image": "images/musica.png",
+            "palabra": "Música"
+        }
+    ]
+}
