@@ -17,7 +17,12 @@
     "Quiero probar una nueva receta.",
     "Salgamos a desayunar.",
     "¿Qué hay de postre?",
-    "¿Quieres comer algo rápido?"
+    "¿Quieres comer algo rápido?",
+    "Me gustaría comer arroz con pollo.",
+    "¿Tienes pan para el desayuno?",
+    "Quiero una bebida fría.",
+    "La comida huele delicioso.",
+    "Vamos a preparar una ensalada juntos."
   ],
   "caminar": [
     "Me gustaría salir a caminar.",
@@ -36,7 +41,12 @@
     "Salir a caminar me hace sentir mejor.",
     "Vamos de excursión a las montañas.",
     "¿Damos una vuelta en bici por la ciudad?",
-    "Vamos a trotar esta noche."
+    "Vamos a trotar esta noche.",
+    "Quiero caminar al atardecer.",
+    "¿Salimos a dar una vuelta?",
+    "Me gusta caminar después de cenar.",
+    "Vamos a explorar un nuevo camino.",
+    "Podemos caminar mientras conversamos."
   ],
   "emociones": [
     "Hoy me siento feliz.",
@@ -55,7 +65,12 @@
     "Me siento contento y tranquilo.",
     "Estoy cansado después del trabajo.",
     "Estoy nervioso por la reunión de mañana.",
-    "Tengo un poco de miedo."
+    "Tengo un poco de miedo.",
+    "Estoy feliz de verte.",
+    "A veces me siento confundido.",
+    "Me hace bien hablar con alguien.",
+    "Quiero compartir cómo me siento.",
+    "Hoy tengo muchas emociones mezcladas."
   ],
   "objetos": [
     "¿Puedes pasarme el libro?",
@@ -74,7 +89,12 @@
     "¿Dónde puedo comprar un libro nuevo?",
     "Necesito limpiar la mesa después del almuerzo.",
     "¿Puedo usar tu pluma para escribir esto?",
-    "¿Tienes un cuaderno extra?"
+    "¿Tienes un cuaderno extra?",
+    "¿Dónde dejé mis llaves?",
+    "El control remoto no funciona.",
+    "Pásame ese cuaderno, por favor.",
+    "Necesito una silla cómoda.",
+    "¿Viste mi mochila azul?"
   ],
   "animales": [
     "El perro está ladrando.",
@@ -92,7 +112,12 @@
     "¡Los gatos son tan independientes!",
     "Vi un conejo en el jardín hoy.",
     "Los peces nadan en el estanque.",
-    "Monté a caballo el fin de semana pasado."
+    "Monté a caballo el fin de semana pasado.",
+    "Mi gato duerme todo el día.",
+    "Escuché un búho anoche.",
+    "Los perros son muy leales.",
+    "Vi un pato en el lago.",
+    "El caballo corre muy rápido."
   ],
   "rutinas_diarias": [
     "Me despierto temprano cada mañana.",
@@ -108,7 +133,12 @@
     "Me cepillo los dientes antes de dormir.",
     "Pongo mi alarma a las 6 AM todos los días.",
     "Después del trabajo, me relajo viendo TV.",
-    "Preparo mi ropa la noche anterior."
+    "Preparo mi ropa la noche anterior.",
+    "Me gusta tomar café en la mañana.",
+    "Antes de dormir escucho música.",
+    "Despierto con el sonido de mi alarma.",
+    "Hago la cama cada mañana.",
+    "Lavo los platos después de comer."
   ],
   "actividades": [
     "Me encanta leer libros.",
@@ -125,7 +155,12 @@
     "Bailar me ayuda a relajarme.",
     "Me gusta dibujar con lápices.",
     "Practico pintura cada fin de semana.",
-    "Vamos al gimnasio a entrenar."
+    "Vamos al gimnasio a entrenar.",
+    "Me gusta caminar al aire libre.",
+    "Estoy armando un rompecabezas.",
+    "Quiero aprender a tocar guitarra.",
+    "Hoy dibujé una casa con árboles.",
+    "Vamos a escuchar música juntos."
   ],
   "ayuda": [
     "¿Puedes ayudarme con esto?",
@@ -139,7 +174,12 @@
     "Trabajemos juntos para resolver esto.",
     "¿Podrías ayudarme con mi computadora?",
     "Ayúdame a levantar esta caja.",
-    "¿Me das una mano con esto?"
+    "¿Me das una mano con esto?",
+    "¿Me puedes explicar esto?",
+    "Necesito ayuda para entender.",
+    "¿Puedes acompañarme?",
+    "¿Puedo ayudarte en algo?",
+    "Estoy aquí si necesitas apoyo."
   ],
   "familia": [
     "Me encanta pasar tiempo con mi familia.",
@@ -153,7 +193,12 @@
     "El tiempo en familia es muy importante para mí.",
     "Nos vamos de vacaciones familiares.",
     "Mi abuelo tiene 80 años.",
-    "Llamo a mi madre todos los días."
+    "Llamo a mi madre todos los días.",
+    "Mi hermana me llamó ayer.",
+    "Amo a mi familia con todo mi corazón.",
+    "Pasé la tarde con mis primos.",
+    "Mi sobrino aprendió a caminar.",
+    "Toda la familia cenó junta anoche."
   ],
   "clima": [
     "Hoy está soleado afuera.",
@@ -166,7 +211,12 @@
     "Hace calor y sol hoy.",
     "El viento está muy fuerte ahora.",
     "El pronóstico dice que estará nublado todo el día.",
-    "Me encanta cuando llueve por la noche."
+    "Me encanta cuando llueve por la noche.",
+    "Está haciendo mucho frío hoy.",
+    "Me gusta cuando hay neblina.",
+    "Hoy el cielo está despejado.",
+    "Hace mucho calor en verano.",
+    "Está cayendo una ligera lluvia."
   ],
   "trabajo": [
     "Tengo una reunión esta tarde.",
@@ -178,7 +228,12 @@
     "Necesitamos programar una reunión de equipo.",
     "¿Puedes enviarme el último informe?",
     "Terminemos el proyecto antes del plazo.",
-    "Estoy preparando una presentación para el cliente."
+    "Estoy preparando una presentación para el cliente.",
+    "Tengo mucho trabajo por hacer.",
+    "Hoy terminé una tarea importante.",
+    "Estoy esperando una llamada de trabajo.",
+    "Mi jefe me dio una nueva responsabilidad.",
+    "Necesito organizar mis pendientes del día."
   ],
   "ocio": [
     "Estoy planeando unas vacaciones en la playa.",
@@ -189,6 +244,11 @@
     "Disfruto viajar a lugares nuevos.",
     "Mi película favorita está en el cine.",
     "Espero con ansias mis vacaciones.",
-    "Vamos a la playa a relajarnos."
+    "Vamos a la playa a relajarnos.",
+    "Quiero ver una película divertida.",
+    "Estoy jugando un videojuego nuevo.",
+    "Vamos a caminar por el parque.",
+    "Escuchar música me relaja.",
+    "Me gusta visitar museos en mi tiempo libre."
   ]
 }
